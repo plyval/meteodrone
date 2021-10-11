@@ -1,0 +1,975 @@
+[
+    {
+        "location": "BALTASOUND",
+        "temp": "4.4",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "LERWICK (S. SCREEN)",
+        "temp": "4.6",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "FAIR ISLE",
+        "temp": "7.2",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "KIRKWALL",
+        "temp": "5.6",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "SOUTH UIST RANGE",
+        "temp": "7.9",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "STORNOWAY",
+        "temp": "8.8",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "LOCH GLASCARNOCH",
+        "temp": "5.9",
+        "windSpeed": "7",
+        "windGust": "",
+        "windDirection": "SE"
+    },
+    {
+        "location": "AULTBEA",
+        "temp": "10.9",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "SE"
+    },
+    {
+        "location": "BEALACH NA BA",
+        "temp": "5.6",
+        "windSpeed": "15",
+        "windGust": "34",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "ALTNAHARRA SAWS",
+        "temp": "7.7",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "TULLOCH BRIDGE",
+        "temp": "6.6",
+        "windSpeed": "7",
+        "windGust": "",
+        "windDirection": "SSE"
+    },
+    {
+        "location": "AVIEMORE",
+        "temp": "2.0",
+        "windSpeed": "2",
+        "windGust": "",
+        "windDirection": "W"
+    },
+    {
+        "location": "CAIRN GORM SUMMIT",
+        "temp": "-0.4",
+        "windSpeed": "34",
+        "windGust": "51",
+        "windDirection": "SSE"
+    },
+    {
+        "location": "KINLOSS",
+        "temp": "3.7",
+        "windSpeed": "3",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "LOSSIEMOUTH",
+        "temp": "5.8",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "CAIRNWELL",
+        "temp": "1.8",
+        "windSpeed": "17",
+        "windGust": "29",
+        "windDirection": "SE"
+    },
+    {
+        "location": "WICK JOHN O GROATS AIRPORT",
+        "temp": "7.2",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "ABOYNE",
+        "temp": "0.4",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "WSW"
+    },
+    {
+        "location": "INVERBERVIE",
+        "temp": "5.9",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "ABERDEEN AIRPORT",
+        "temp": "5.5",
+        "windSpeed": "2",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "TIREE",
+        "temp": "9.0",
+        "windSpeed": "18",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "ISLAY AIRPORT",
+        "temp": "7.4",
+        "windSpeed": "24",
+        "windGust": "32",
+        "windDirection": "E"
+    },
+    {
+        "location": "CAMPBELTOWN AIRPORT",
+        "temp": "7.2",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "WEST FREUGH",
+        "temp": "6.5",
+        "windSpeed": "15",
+        "windGust": "29",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "GLASGOW/BISHOPTON",
+        "temp": "5.6",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "PRESTWICK RNAS",
+        "temp": "5.5",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "STRATHALLAN",
+        "temp": "5.6",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "GLEN OGLE",
+        "temp": "1.8",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "SE"
+    },
+    {
+        "location": "DUNDRENNAN",
+        "temp": "5.7",
+        "windSpeed": "28",
+        "windGust": "37",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "DRUMALBIN",
+        "temp": "3.9",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "CHARTERHALL",
+        "temp": "3.9",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "ESKDALEMUIR",
+        "temp": "2.9",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "N"
+    },
+    {
+        "location": "EDINBURGH/GOGARBANK",
+        "temp": "4.8",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LEUCHARS",
+        "temp": "6.7",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "RONALDSWAY",
+        "temp": "8.2",
+        "windSpeed": "28",
+        "windGust": "34",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "ST. BEES HEAD",
+        "temp": "6.5",
+        "windSpeed": "7",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "KESWICK",
+        "temp": "7.2",
+        "windSpeed": "21",
+        "windGust": "37",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "CARLISLE",
+        "temp": "5.2",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "SPADEADAM",
+        "temp": "2.3",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "SHAP",
+        "temp": "3.7",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "WARCOP",
+        "temp": "6.3",
+        "windSpeed": "29",
+        "windGust": "41",
+        "windDirection": "E"
+    },
+    {
+        "location": "GREAT DUN FELL 2",
+        "temp": "-0.2",
+        "windSpeed": "37",
+        "windGust": "46",
+        "windDirection": "E"
+    },
+    {
+        "location": "REDESDALE CAMP",
+        "temp": "3.1",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "ALBEMARLE",
+        "temp": "5.1",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "BOULMER",
+        "temp": "6.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "LEEMING",
+        "temp": "5.7",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "TOPCLIFFE",
+        "temp": "7.7",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LINTON ON OUSE",
+        "temp": "7.6",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LOFTUS (SAMOS)",
+        "temp": "6.2",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "FYLINGDALES",
+        "temp": "4.8",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "BRIDLINGTON MRSC",
+        "temp": "8.2",
+        "windSpeed": "22",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "VALLEY",
+        "temp": "8.6",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "CAPEL CURIG",
+        "temp": "6.4",
+        "windSpeed": "17",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "RHYL",
+        "temp": "6.8",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "CROSBY",
+        "temp": "7.6",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "HAWARDEN",
+        "temp": "5.9",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LEEK",
+        "temp": "5.0",
+        "windSpeed": "21",
+        "windGust": "33",
+        "windDirection": "E"
+    },
+    {
+        "location": "BINGLEY SAMOS",
+        "temp": "4.4",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "ROSTHERNE NO 2",
+        "temp": "7.0",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "WATNALL",
+        "temp": "6.2",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "SCAMPTON",
+        "temp": "7.7",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "WADDINGTON",
+        "temp": "7.9",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "CRANWELL",
+        "temp": "8.0",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LECONFIELD SAR",
+        "temp": "7.5",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "DONNA NOOK",
+        "temp": "9.3",
+        "windSpeed": "29",
+        "windGust": "38",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "CONINGSBY",
+        "temp": "9.3",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "WAINFLEET",
+        "temp": "9.7",
+        "windSpeed": "22",
+        "windGust": "31",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "ABERDARON",
+        "temp": "8.6",
+        "windSpeed": "24",
+        "windGust": "33",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LAKE VYRNWY SAWS",
+        "temp": "4.9",
+        "windSpeed": "17",
+        "windGust": "33",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "SHAWBURY",
+        "temp": "4.8",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "WITTERING",
+        "temp": "7.6",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "HOLBEACH",
+        "temp": "9.0",
+        "windSpeed": "19",
+        "windGust": "30",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "MARHAM",
+        "temp": "8.7",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "WEYBOURNE",
+        "temp": "9.4",
+        "windSpeed": "18",
+        "windGust": "30",
+        "windDirection": "E"
+    },
+    {
+        "location": "ABERPORTH",
+        "temp": "8.1",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "TRAWSGOED",
+        "temp": "8.0",
+        "windSpeed": "21",
+        "windGust": "36",
+        "windDirection": "E"
+    },
+    {
+        "location": "SENNYBRIDGE",
+        "temp": "6.0",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "SHOBDON SAWS",
+        "temp": "7.3",
+        "windSpeed": "7",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "HEREFORD",
+        "temp": "7.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "PERSHORE",
+        "temp": "7.8",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "COLESHILL",
+        "temp": "6.8",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "CHURCH LAWFORD",
+        "temp": "6.3",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "BEDFORD",
+        "temp": "6.5",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "WATTISHAM",
+        "temp": "9.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "MILFORD HAVEN C.B.",
+        "temp": "9.2",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "PEMBREY SANDS",
+        "temp": "8.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "MUMBLES HEAD",
+        "temp": "10.4",
+        "windSpeed": "23",
+        "windGust": "30",
+        "windDirection": "NE"
+    },
+    {
+        "location": "LITTLE RISSINGTON (ESAWS)",
+        "temp": "6.3",
+        "windSpeed": "17",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "BRIZE NORTON",
+        "temp": "8.1",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "BENSON",
+        "temp": "7.4",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "HIGH WYCOMBE",
+        "temp": "8.1",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "NORTHOLT",
+        "temp": "10.2",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "ROTHAMSTED",
+        "temp": "8.2",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "ANDREWSFIELD",
+        "temp": "8.0",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "SHOEBURYNESS",
+        "temp": "10.1",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "CHIVENOR",
+        "temp": "10.3",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "LISCOMBE",
+        "temp": "6.3",
+        "windSpeed": "18",
+        "windGust": "30",
+        "windDirection": "NE"
+    },
+    {
+        "location": "ST-ATHAN",
+        "temp": "9.3",
+        "windSpeed": "22",
+        "windGust": "31",
+        "windDirection": "NE"
+    },
+    {
+        "location": "LYNEHAM",
+        "temp": "7.9",
+        "windSpeed": "18",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "LARKHILL",
+        "temp": "7.8",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "BOSCOMBE DOWN",
+        "temp": "9.6",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "MIDDLE WALLOP",
+        "temp": "9.9",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "ODIHAM",
+        "temp": "9.3",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "FARNBOROUGH",
+        "temp": "9.7",
+        "windSpeed": "7",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "CHARLWOOD",
+        "temp": "10.5",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "HEATHROW",
+        "temp": "10.2",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "KENLEY",
+        "temp": "9.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "LANGDON BAY",
+        "temp": "10.6",
+        "windSpeed": "26",
+        "windGust": "37",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "MANSTON",
+        "temp": "11.6",
+        "windSpeed": "22",
+        "windGust": "34",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "SCILLY ST MARYS",
+        "temp": "11.8",
+        "windSpeed": "11",
+        "windGust": "",
+        "windDirection": "NNE"
+    },
+    {
+        "location": "CAMBORNE",
+        "temp": "11.7",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "CULDROSE",
+        "temp": "12.2",
+        "windSpeed": "9",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "CARDINHAM",
+        "temp": "10.7",
+        "windSpeed": "19",
+        "windGust": "29",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "MOUNT BATTEN",
+        "temp": "12.4",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "DUNKESWELL AERODROME",
+        "temp": "7.9",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "EXETER AIRPORT",
+        "temp": "10.4",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "YEOVILTON",
+        "temp": "9.4",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "ISLE OF PORTLAND",
+        "temp": "11.2",
+        "windSpeed": "23",
+        "windGust": "30",
+        "windDirection": "NE"
+    },
+    {
+        "location": "BOURNEMOUTH AIRPORT",
+        "temp": "10.5",
+        "windSpeed": "10",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "ST CATHERINES PT.",
+        "temp": "11.4",
+        "windSpeed": "18",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "THORNEY ISLAND",
+        "temp": "10.8",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "SHOREHAM",
+        "temp": "11.9",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "HERSTMONCEUX WEST END",
+        "temp": "11.0",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "GUERNSEY",
+        "temp": "10.1",
+        "windSpeed": "15",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "JERSEY",
+        "temp": "10.6",
+        "windSpeed": "16",
+        "windGust": "",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "CASTLEDERG",
+        "temp": "2.1",
+        "windSpeed": "1",
+        "windGust": "",
+        "windDirection": "SE"
+    },
+    {
+        "location": "MAGILLIGAN",
+        "temp": "5.9",
+        "windSpeed": "14",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "LOUGH FEA",
+        "temp": "5.9",
+        "windSpeed": "8",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "BALLYPATRICK FOREST",
+        "temp": "6.0",
+        "windSpeed": "21",
+        "windGust": "33",
+        "windDirection": "ESE"
+    },
+    {
+        "location": "BELFAST INTERNATIONAL AIRPORT",
+        "temp": "7.3",
+        "windSpeed": "8",
+        "windGust": "29",
+        "windDirection": "ENE"
+    },
+    {
+        "location": "GLENANNE",
+        "temp": "5.6",
+        "windSpeed": "5",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "ROCHES POINT",
+        "temp": "9.5",
+        "windSpeed": "13",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "VALENTIA OBSERVATORY",
+        "temp": "6.7",
+        "windSpeed": "4",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "BELMULLET",
+        "temp": "6.0",
+        "windSpeed": "4",
+        "windGust": "",
+        "windDirection": "NE"
+    },
+    {
+        "location": "MALIN HEAD",
+        "temp": "8.7",
+        "windSpeed": "27",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "WOBURN",
+        "temp": "7.2",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "STONYHURST",
+        "temp": "6.3",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    },
+    {
+        "location": "NORTH WYKE",
+        "temp": "9.1",
+        "windSpeed": "6",
+        "windGust": "",
+        "windDirection": "E"
+    },
+    {
+        "location": "SCARBOROUGH",
+        "temp": "6.8",
+        "windSpeed": "",
+        "windGust": "",
+        "windDirection": ""
+    }
+]
